@@ -1,0 +1,5 @@
+.lessBox .box {
+  background-color: green;
+  display: grid;
+  color: red;
+}
